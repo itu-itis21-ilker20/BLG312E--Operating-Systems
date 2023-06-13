@@ -1,6 +1,5 @@
 /*
 Computer Operating Systems HW3
-Fatmagul İlker- 150200088
 Date: 01.06.2023
 */
 
